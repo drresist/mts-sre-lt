@@ -1,5 +1,0 @@
-package weatherforecast
-
-class WeatherSimulation {
-
-}
